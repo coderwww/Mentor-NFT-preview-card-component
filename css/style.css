@@ -70,7 +70,6 @@ body {
 .nft-card a {
     text-decoration: none;
     color: var(--white);
-    font-weight: 400;
     transition: all 0.5s ease-in-out;
 }
 .nft-card a:hover {
@@ -122,3 +121,4 @@ body {
     -webkit-border-radius: 50%;
     border-radius: 50%;
 }
+.nft-card .author a { font-weight: 400; }
